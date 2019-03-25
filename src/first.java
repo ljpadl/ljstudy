@@ -1,2 +1,2 @@
 System.out.printl("lijiangshushu")
-System.out.printl("lijiangzaiceshi")
+System.out.printl("liji")
