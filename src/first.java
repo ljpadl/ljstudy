@@ -7,4 +7,8 @@ System.out.printl("nigegouride")
 >>>>>>> Stashed changes
 
 jiangge
+<<<<<<< Updated upstream
 jiksllddfwangyuxia
+=======
+jiksllddflijiang
+>>>>>>> Stashed changes
