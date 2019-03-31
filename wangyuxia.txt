@@ -3,3 +3,5 @@ meiguoren
 yingguoren
 hanguoren
 ribenren
+chuguoren
+
