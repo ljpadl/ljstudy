@@ -4,4 +4,6 @@ chuguo
 qinguo
 qiguo
 zhaoguo
+hanguo
+yanguo
 
